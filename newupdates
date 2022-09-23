@@ -1,14 +1,22 @@
-Postleitzahl Anzeige entfernt
-EMS gefixt
-Automatische Dispatch entfernt
-Tuningpreise angepasst
-Ein Event gefixt was client error ausgelöst hat
-Akkuverbrauch vorerst deaktiviert
-Mechaniker bezahlen jetzt vom Bankkonto
-Fliegenden Drucker entfernt
-An den CasinoTischen könnt ihr euch jetzt hören
-Text im Krankenhaus Korriegiert 
-REQ Items entfernt die euch an einer Tankstelle angezeigt wurden
-Anzeigefehler in der Bankapp am Handy korrigiert 
-Rechnungsmenü für Firmen gefixt
-Sprachreichweite ist jetzt sichtbar 
+
+23.09.2022
+
+- /ME wird jetzt als Draw3DText angezeigt
+- Datenbankfehler bei der KFZ Zulassung behoben
+- Postleitzahl Anzeige entfernt
+
+22.09.2022
+
+- EMS gefixt
+- Automatische Dispatch entfernt
+- Tuningpreise angepasst
+- Ein Event gefixt was client error ausgelöst hat
+- Akkuverbrauch vorerst deaktiviert
+- Mechaniker bezahlen jetzt vom Bankkonto
+- Fliegenden Drucker entfernt
+- An den CasinoTischen könnt ihr euch jetzt hören
+- Text im Krankenhaus Korriegiert 
+- REQ Items entfernt die euch an einer Tankstelle angezeigt wurden
+- Anzeigefehler in der Bankapp am Handy korrigiert 
+- Rechnungsmenü für Firmen gefixt
+- Sprachreichweite ist jetzt sichtbar 
