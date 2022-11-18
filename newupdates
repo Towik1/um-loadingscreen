@@ -1,3 +1,43 @@
+18.11.2022
+
+Telefon
+
+NEU
+
+- Zeichelimit bei Whatsapp erhöht 
+- Telefonguthaben hinzugefügt
+- Telefonzellen sind jetzt mit Funktion
+- Neue Benutzeroberfläche im Sperrbildschirm
+- Neue Benutzeroberfläche im Sperrbildschirm für die Musik
+- Es wurde ein neuer Bildschirm bei der ersten Verwendung hinzugefügt um das Telefon einzurichten
+- Du kannst jetzt zwischen echt- und Spielzeit entscheiden
+- Grafische Verbesserungen für alle Benachrichtigungen hinzugefügt
+- Das neue Dynamic Island System wurde hinzugefügt, das viele zusätzliche Funktionen enthält
+- Neue dauerhafte Benachrichtigungen für Anrufe und Spotify wurden hinzugefügt
+- Es wurde ein neuer lokaler Speicherplatz für alle Einstellungen hinzugefügt, die nun beim Verlassen des Spiels gespeichert werden
+- Ein Ereignis zum Senden von Lockscreen-Benachrichtigungen wurde hinzugefügt
+- Die neue Safari-Anwendung wurde hinzugefügt
+- Ein persönliches Profil auf Twitter wurde hinzugefügt
+- Das Telefon lässt sich jetzt mit einem Modul selbst reparieren
+
+Geändert
+
+- Leistung wurde stark verbessert durch Optimieren des JS Systems
+- Das allgemeine Erscheinungsbild des Telefons wurde geändert
+- Die Dicke des Telefons wurde geändert
+- Die Anwendung Garagen wurde komplett überarbeitet, indem Bilder und weitere Informationen hinzugefügt wurden
+- Die Anrufe wurden geändert, jetzt wird der Name des anderen Benutzers angezeigt
+- Die Society-Anwendung wurde entfernt und in den Bereich Business integriert
+- Das Öffnen des Telefons wurde geändert, um es flüssiger zu machen
+- Das Laden der Telefon-Metadaten wurde geändert, um das Öffnen des Telefons sauberer und schneller zu machen
+
+Fixes
+
+- Behobenes Videosystem auf TikTok.
+- Anrufliste in QBCore behoben.
+- Ein Fehler im Versand wurde behoben.
+- Das System zum Blockieren anderer Spieler wurde korrigiert.
+
 16.11.2022
 
 - Stühle hinzugefügt
