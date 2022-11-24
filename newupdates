@@ -1,5 +1,14 @@
 24.11.2022
 
+INVENTAR
+- Neue Einstellung zur Neupositionierung der ItemBox im Inventar hinzugefügt
+- Ein Geisterwaffen-Duplikat im Stash wurde behoben
+- Das Tint-URL-System wurde korrigiert (es ist nur lokal)
+- Der visuelle Bereich wurde optimiert
+
+NEU
+- Traphouse hinzugefügt 
+
 **HANDY**
 - Instagram-Verifizierung in der Startseite hinzugefügt
 - Das Kamerasystem wurde korrigiert
